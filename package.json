@@ -1,6 +1,6 @@
 {
-  "name": "bangla-voice-studio-elevenlabs-v3",
-  "version": "3.0.0",
+  "name": "bangla-voice-studio-elevenlabs-v3-free-safe",
+  "version": "3.1.0",
   "private": true,
   "main": "server.js",
   "scripts": { "start": "node server.js" },
