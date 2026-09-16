@@ -1,1 +1,8 @@
-{"name":"bangla-voice-studio-elevenlabs","version":"1.0.0","private":true,"main":"server.js","scripts":{"start":"node server.js"},"dependencies":{"express":"^4.21.2"}}
+{
+  "name": "bangla-voice-studio-elevenlabs-v3",
+  "version": "3.0.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2" }
+}
